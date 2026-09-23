@@ -1,0 +1,16 @@
+type: edu
+custom_name: Fight!
+files:
+  - name: src/tictactoe/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/123/stages/658/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 23 Sep 2026 13:54:25 UTC"
+record: -1

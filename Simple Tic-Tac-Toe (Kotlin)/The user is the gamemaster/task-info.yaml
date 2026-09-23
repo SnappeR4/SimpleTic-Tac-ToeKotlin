@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/tictactoe/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/123/stages/655/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 16 Sep 2026 03:21:06 UTC"
+record: -1

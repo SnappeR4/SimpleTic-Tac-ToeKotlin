@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Simple Tic-Tac-Toe (Kotlin)/task/build/
+/Simple Tic-Tac-Toe (Kotlin)/task/out/
+/Simple Tic-Tac-Toe (Kotlin)/task/out/production/classes/
+/util/build/
